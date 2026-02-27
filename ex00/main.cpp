@@ -7,7 +7,7 @@ int main(void)
     randomChump("Mr.stack");
 
     std::cout << "\n---HEAP ZOMBIE TEST---" << std::endl;
-    Zombie* heapZombie = newZombie("Heapy");
+    Zombie* heapZombie = newZombie("Mrs.Heap");
     heapZombie->announce();
 
     std::cout << "\n---KILL ZOMBIE---" << std::endl;

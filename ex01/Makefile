@@ -1,9 +1,8 @@
 NAME		= brainz
 
 SRCS		= main.cpp \
-			  newZombie.cpp \
 			  Zombie.cpp \
-			  randomChump.cpp
+			  zombieHorde.cpp
 
 OBJS		= $(SRCS:.cpp=.o)
 
