@@ -1,7 +1,8 @@
 NAME		= violence
 
 SRCS		= main.cpp \
-			  Weapon.cpp
+			  Weapon.cpp \
+			  HumanB.cpp
 
 OBJS		= $(SRCS:.cpp=.o)
 
