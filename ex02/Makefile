@@ -1,4 +1,4 @@
-NAME		= brainz
+NAME		= stringo
 
 SRCS		= main.cpp 
 
